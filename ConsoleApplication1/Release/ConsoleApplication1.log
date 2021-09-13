@@ -1,0 +1,45 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C2146: 语法错误: 缺少“)”(在标识符“qw”的前面)
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C3646: “qw”: 未知重写说明符
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,30): error C2059: 语法错误:“[”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,31): error C3409: 不允许空特性块
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,32): error C2059: 语法错误:“,”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,39): error C2059: 语法错误:“)”
+  five.cpp
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C2146: 语法错误: 缺少“)”(在标识符“qw”的前面)
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C3646: “qw”: 未知重写说明符
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,30): error C2059: 语法错误:“[”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,31): error C3409: 不允许空特性块
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,32): error C2059: 语法错误:“,”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,39): error C2059: 语法错误:“)”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\five.cpp(12,16): warning C4244: “初始化”: 从“float”转换到“clock_t”，可能丢失数据
+  four.cpp
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C2146: 语法错误: 缺少“)”(在标识符“qw”的前面)
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C3646: “qw”: 未知重写说明符
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,30): error C2059: 语法错误:“[”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,31): error C3409: 不允许空特性块
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,32): error C2059: 语法错误:“,”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,39): error C2059: 语法错误:“)”
+  seven.cpp
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C2146: 语法错误: 缺少“)”(在标识符“qw”的前面)
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C3646: “qw”: 未知重写说明符
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,30): error C2059: 语法错误:“[”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,31): error C3409: 不允许空特性块
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,32): error C2059: 语法错误:“,”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,39): error C2059: 语法错误:“)”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\seven.cpp(82,21): error C2660: “display1”: 函数不接受 2 个参数
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,6): message : 参见“display1”的声明
+  three.cpp
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C2146: 语法错误: 缺少“)”(在标识符“qw”的前面)
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,28): error C3646: “qw”: 未知重写说明符
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,30): error C2059: 语法错误:“[”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,31): error C3409: 不允许空特性块
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,32): error C2059: 语法错误:“,”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\hhh.h(24,39): error C2059: 语法错误:“)”
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\three.cpp(10,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\three.cpp(11,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据

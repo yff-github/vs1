@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,5): warning C4551: 缺少参数列表的函数调用
+  three.cpp
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\three.cpp(10,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14568\source\repos\ConsoleApplication1\ConsoleApplication1\three.cpp(11,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  ConsoleApplication1.vcxproj -> C:\Users\14568\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe

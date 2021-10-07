@@ -67,28 +67,28 @@ void revalue(double r, double ar[], int n)
 	}
 }
 
-const int SIZE = 5;
-
-void seven7_14()
-{
-	string list[SIZE];
-	cout << "enter your" << SIZE << "favoite astronomical sight\n";
-	for (int i = 0; i < SIZE; i++)
-	{
-		cout << i + 1 << ":";
-		getline(cin, list[i]);
-	}
-	cout << "your list:";
-	display1(list, SIZE);
-
-
-}
-
-void display1(const string qw[],int n)
-{
-	for (int i = 0; i < n; i++)
-	{
-		cout << i + 1 << ":" << qw[i] << endl;
-	}
-}
-
+//const int SIZE = 5;
+//
+//void seven7_14()
+//{
+//	string list[SIZE];
+//	cout << "enter your" << SIZE << "favoite astronomical sight\n";
+//	for (int i = 0; i < SIZE; i++)
+//	{
+//		cout << i + 1 << ":";
+//		getline(cin, list[i]);
+//	}
+//	cout << "your list:";
+//	display1(list, SIZE);
+//
+//
+//}
+//
+//void display1(const string qw[],int n)
+//{
+//	for (int i = 0; i < n; i++)
+//	{
+//		cout << i + 1 << ":" << qw[i] << endl;
+//	}
+//}
+//

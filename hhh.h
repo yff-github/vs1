@@ -19,8 +19,36 @@ int fill_array(double ar[],int limit);
 void show_array(const double ar[], int n);
 void revalue(double r, double ar[], int n);
 
-void seven7_14();//string数组
-//void display1(const string list[],int n);
-void display1(const string qw[], int n);
+//void seven7_14();//string数组
+//void display1(const string qw[], int n);
+
+
+//8单元
+void eight8_1();//引用
+void eight8_13();//显式具体化
+
+
+void ten10_3();//类的基本成员
+void ceshi2();
+
+void ten10_12();//抽象，栈的定义和使用
+
+
+void eleven11_3();//操作符重载
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
